@@ -6,7 +6,7 @@ Bu repo [kodluyoruz](https://kodluyoruz.org) Front End eğitiminde oluşturduğu
 
 Öncelikle projeyi clonelayın.(buraya sizin reponuzdan aldığınız link gelecek)
 
-[](git clone https://github.com/cengizcmataraci/kodluyoruzilkrepo.git)
+[git clone](https://github.com/AkcilekElif/kodluyoruzilkrepo.git)
 
 ## Usage
 
@@ -14,8 +14,7 @@ Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
 
 Linux için;
 
-[](cd kodluyoruzilkrepo
-code .)
+(cd kodluyoruzilkrepocode.)
 
 ## Contributing
 
@@ -23,8 +22,6 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 
 ## Licence
 
-## [MIT]
-
-(https://choosealicense.com/licenses/mit/)
+## [MIT](https://choosealicense.com/licenses/mit/)
 
 ## ![Görsel](https://www.google.com/search?q=KODLUYORUZ+RESM%C4%B0&tbm=isch&ved=2ahUKEwi89qarpcT5AhWHu6QKHTDeBWsQ2-cCegQIABAA&oq=KODLUYORUZ+RESM%C4%B0&gs_lcp=CgNpbWcQAzoFCAAQgAQ6CAgAEIAEELEDOgsIABCABBCxAxCDAToECAAQQzoICAAQsQMQgwE6BAgAEBg6BggAEAoQGFCxEljpMWCAM2gBcAB4AIAB-gGIAfgTkgEGMC4xMy40mAEAoAEBqgELZ3dzLXdpei1pbWfAAQE&sclient=img&ei=o9j3YvyYMof3kgWwvJfYBg&bih=657&biw=1366#imgrc=7yBX1qNq6N3yQM)
