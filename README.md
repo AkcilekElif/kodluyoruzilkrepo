@@ -7,7 +7,7 @@ Bu repo [kodluyoruz](https://kodluyoruz.org) Front End eğitiminde oluşturduğu
 Öncelikle projeyi clonelayın.(buraya sizin reponuzdan aldığınız link gelecek)
 
 ```phyton
-print("git clone https://github.com/AkcilekElif/kodluyoruzilkrepo.git")
+git clone https://github.com/AkcilekElif/kodluyoruzilkrepo.git
 ```
 
 ## Usage
@@ -17,7 +17,7 @@ Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
 Linux için
 
 ```phyton
-print("cd kodluyoruzilkrepocode.")
+cd kodluyoruzilkrepocode.
 ```
 
 ## Contributing
